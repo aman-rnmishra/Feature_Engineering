@@ -1,2 +1,4 @@
 # Machine_Learning
-Machine Learning Techniques
+1. Feature Engineering
+2. EDA
+3. Regression
