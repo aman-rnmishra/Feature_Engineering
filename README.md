@@ -1,6 +1,7 @@
 # Feature Engineering
 1. Handling Missing Values
 2. Handling Imbalanced Data
+
 **3. SMOTE (Synthetic Minority Oversampling Technique) : **
 SMOTE (Synthetic Minority Over-sampling Technique) is a popular technique used in machine learning for dealing with imbalanced datasets. Imbalanced datasets are those where the number of samples in one class is significantly smaller than the number of samples in another class. This imbalance can lead to biased models that perform poorly on the minority class.
 
